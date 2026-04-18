@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace Modul7_DhiesnaZetaKurnia
 {
-    internal class Watchlist_103022400125
+    internal class Watchlist_103022400121
     {
         class Watchlist
         {
