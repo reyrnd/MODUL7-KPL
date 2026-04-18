@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace Modul7_DhiesnaZetaKurnia
 {
-    internal class Transformers_103022400121
+    internal class FilmFavorit_103022400121
     {
         class Film
         {
