@@ -5,5 +5,7 @@ class Program
     {
         //FilmFavorit_103022400132.ReadJSON();
         Watchlist_103022400132.ReadJSON();
+      FilmFavorit_103022400125.ReadJSON();
+        Watchlist_103022400125.ReadJSON();
     }
 }
