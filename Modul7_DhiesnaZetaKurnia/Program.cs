@@ -6,5 +6,6 @@ class Program
     {
         FilmFavorit_103022400125.ReadJSON();
         Watchlist_103022400125.ReadJSON();
+        GenreDictionary_103022400125.ReadJSON();
     }
 }

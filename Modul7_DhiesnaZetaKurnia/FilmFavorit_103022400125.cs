@@ -32,7 +32,7 @@ namespace Modul7_DhiesnaZetaKurnia
 
         public static void ReadJSON()
         {
-            String jsonString = File.ReadAllText("D:\\Modul7_DhiesnaZetaKurnia\\Modul7_DhiesnaZetaKurnia\\jurnal7_1_103022400125.json");
+            String jsonString = File.ReadAllText("jurnal7_1_103022400125.json");
 
             //Deserialize file json menjadi object
             Film flm = JsonSerializer.Deserialize<Film>(jsonString);
